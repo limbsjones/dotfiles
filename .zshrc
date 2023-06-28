@@ -102,3 +102,13 @@ source $ZSH/oh-my-zsh.sh
 
 eval $(thefuck --alias)
 
+#alias
+alias lg="lazygit"
+alias update="sudo apt update; sudo apt upgrade -y"
+alias exp="explorer.exe"
+alias naut="nautilus"
+alias vs="code"
+alias term="gnome-terminal"
+
+
+
